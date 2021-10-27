@@ -1,0 +1,30 @@
+body {
+  background: rgb(16, 104, 102);
+  text-align: center;
+}
+
+header {
+  background: rgb(112, 174, 173);
+  margin-left: 200px;
+  width: 700px;
+  padding: 0.5rem;
+  border-radius: 10px 10px 0 0;
+}
+
+.principal {
+  background: rgb(81, 114, 113);
+  margin-left: 200px;
+  width: 700px;
+  padding: 2rem 0.5rem 2rem 0.5rem;
+  border-radius: 0 0 10px 10px;
+}
+.resposta {
+  color: rgb(15, 70, 15);
+}
+
+.invalid {
+  color: red;
+}
+p {
+  font-family: bold;
+}
